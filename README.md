@@ -2,7 +2,9 @@
 
 工单系统的后端代码，包含用户、权限、工单发布、工单流程等
 
-前端项目见：[https://github.com/wangsansi/react-ticket-app](https://github.com/wangsansi/react-ticket-app)
+PC端：https://github.com/wangsansi/react-ticket-app
+
+小程序端：https://github.com/wangsansi/frogla2.0
 
 ## demo
 
