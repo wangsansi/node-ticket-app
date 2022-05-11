@@ -6,7 +6,7 @@ const connection = mysql.createConnection({
   user     : 'root',
   port     : '3306',
   password : '数据库密码',
-  database : '数据库名称',
+  database : 'ticket',
   dateStrings: true  //将时间转换为字符串
 });
    
